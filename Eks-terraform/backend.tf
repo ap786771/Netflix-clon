@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket         = "ajay-mrcloudbook777"
+    bucket         = "abhikabuck"
     key            = "env:/terraform.tfstate"
     region         = "us-east-1"    
   }
